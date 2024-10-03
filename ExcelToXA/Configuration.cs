@@ -72,7 +72,7 @@ namespace ExcelToXA
             }
 
             this.Close();
-            //Program.main.GetOrders();
+            Program.main.GetOrders();
         }
     }
 }
